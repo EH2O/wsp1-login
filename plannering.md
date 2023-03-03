@@ -2,3 +2,5 @@
 
 
 & npm run scss
+
+:(
