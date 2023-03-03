@@ -102,7 +102,7 @@ describe('3. Authentication', () => {
         });
     });
     /** Teardown
-     * After all tests, we delete the users from the database
+     * After all tests, we delete the hgusers from the database
      * and close the session
      * We also close the database connection
      */
